@@ -1,3 +1,3 @@
 ## Functional Programming In Scala
 
-repo with materials on my start in Scala
+repo with my materials starting in Scala
